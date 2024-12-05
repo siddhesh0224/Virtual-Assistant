@@ -86,7 +86,5 @@ if __name__ == "__main__":
             codePath = "C:\\Users\\spedn\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
             os.startfile(codePath)
         
-        elif 'play perfect' in query:
-            webbrowser.open("https://www.youtube.com/watch?v=2Vv-BfVoq4g")
-
+        
      
